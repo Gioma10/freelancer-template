@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
-    <nav className="navbar">
-      <a className="btn btn-ghost text-xl">Freelencer</a>
+    <nav className="navbar fixed">
+      <a className="btn btn-ghost text-xl">Freelencer Logo</a>
     </nav>
   );
 };
